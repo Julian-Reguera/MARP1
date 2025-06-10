@@ -1,0 +1,4 @@
+﻿  Ej_02.cpp
+C:\Users\julianix\Documents\programacion\c++\MARP1\Ej_02\Ej_02.cpp(32,42): warning C4101: 'e': variable local sin referencia
+C:\Users\julianix\Documents\programacion\c++\MARP1\Ej_02\TreeSet_AVL.h(107,1): warning C4715: 'Set<int,std::less<int> >::kesimoRec': no todas las rutas de acceso de control devuelven un valor
+  Ej_02.vcxproj -> C:\Users\julianix\Documents\programacion\c++\MARP1\x64\Debug\Ej_02.exe
