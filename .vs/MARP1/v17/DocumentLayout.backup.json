@@ -3,11 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FC97911-528D-4416-A391-F2F52AB2BCF2}|Ej_07\\Ej_07.vcxproj|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_07\\Ej_07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0FC97911-528D-4416-A391-F2F52AB2BCF2}|Ej_07\\Ej_07.vcxproj|solutionrelative:Ej_07\\Ej_07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E732F7C5-3EB5-4280-8D2A-3C2F95DE76E8}|Ej_17\\Ej_17.vcxproj|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\Ej_17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E732F7C5-3EB5-4280-8D2A-3C2F95DE76E8}|Ej_17\\Ej_17.vcxproj|solutionrelative:Ej_17\\Ej_17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\julianix\\AppData\\Local\\Temp\\c5b2d31b-493b-44e8-b150-47d9fd2df9b5_s5682.zip.9b5\\Ejercicio_07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E732F7C5-3EB5-4280-8D2A-3C2F95DE76E8}|Ej_17\\Ej_17.vcxproj|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E732F7C5-3EB5-4280-8D2A-3C2F95DE76E8}|Ej_17\\Ej_17.vcxproj|solutionrelative:Ej_17\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E732F7C5-3EB5-4280-8D2A-3C2F95DE76E8}|Ej_17\\Ej_17.vcxproj|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\Digrafo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E732F7C5-3EB5-4280-8D2A-3C2F95DE76E8}|Ej_17\\Ej_17.vcxproj|solutionrelative:Ej_17\\Digrafo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E36C7F6-B01E-41E0-A186-A78684567BA1}|recursos{4E36C7F6-B01E-41E0-A186-A78684567BA1}|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\recursos\\Digrafo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E36C7F6-B01E-41E0-A186-A78684567BA1}|recursos{4E36C7F6-B01E-41E0-A186-A78684567BA1}|solutionrelative:recursos\\Digrafo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E36C7F6-B01E-41E0-A186-A78684567BA1}|recursos{4E36C7F6-B01E-41E0-A186-A78684567BA1}|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\recursos\\plantilla_fin_fichero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E36C7F6-B01E-41E0-A186-A78684567BA1}|recursos{4E36C7F6-B01E-41E0-A186-A78684567BA1}|solutionrelative:recursos\\plantilla_fin_fichero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A25977-BD43-4084-9A94-8537DDA66F55}|Ej_16\\Ej_16.vcxproj|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_16\\Ej_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0A25977-BD43-4084-9A94-8537DDA66F55}|Ej_16\\Ej_16.vcxproj|solutionrelative:Ej_16\\Ej_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A25977-BD43-4084-9A94-8537DDA66F55}|Ej_16\\Ej_16.vcxproj|C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_16\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0A25977-BD43-4084-9A94-8537DDA66F55}|Ej_16\\Ej_16.vcxproj|solutionrelative:Ej_16\\casos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,33 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ej_07.cpp",
-              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_07\\Ej_07.cpp",
-              "RelativeDocumentMoniker": "Ej_07\\Ej_07.cpp",
-              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_07\\Ej_07.cpp",
-              "RelativeToolTip": "Ej_07\\Ej_07.cpp",
-              "ViewState": "AgIAADgAAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Digrafo.h",
+              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\Digrafo.h",
+              "RelativeDocumentMoniker": "Ej_17\\Digrafo.h",
+              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\Digrafo.h",
+              "RelativeToolTip": "Ej_17\\Digrafo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T12:10:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Digrafo.h",
+              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\recursos\\Digrafo.h",
+              "RelativeDocumentMoniker": "recursos\\Digrafo.h",
+              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\recursos\\Digrafo.h",
+              "RelativeToolTip": "recursos\\Digrafo.h",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv4QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T12:10:01.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plantilla_fin_fichero.cpp",
+              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\recursos\\plantilla_fin_fichero.cpp",
+              "RelativeDocumentMoniker": "recursos\\plantilla_fin_fichero.cpp",
+              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\recursos\\plantilla_fin_fichero.cpp",
+              "RelativeToolTip": "recursos\\plantilla_fin_fichero.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-09T11:42:21.656Z",
+              "WhenOpened": "2025-06-13T12:09:23.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ejercicio_07.cpp",
-              "DocumentMoniker": "C:\\Users\\julianix\\AppData\\Local\\Temp\\c5b2d31b-493b-44e8-b150-47d9fd2df9b5_s5682.zip.9b5\\Ejercicio_07.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\c5b2d31b-493b-44e8-b150-47d9fd2df9b5_s5682.zip.9b5\\Ejercicio_07.cpp",
-              "ToolTip": "C:\\Users\\julianix\\AppData\\Local\\Temp\\c5b2d31b-493b-44e8-b150-47d9fd2df9b5_s5682.zip.9b5\\Ejercicio_07.cpp [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\c5b2d31b-493b-44e8-b150-47d9fd2df9b5_s5682.zip.9b5\\Ejercicio_07.cpp [Solo lectura]",
-              "ViewState": "AgIAADgAAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "Title": "casos.txt",
+              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\casos.txt",
+              "RelativeDocumentMoniker": "Ej_17\\casos.txt",
+              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\casos.txt",
+              "RelativeToolTip": "Ej_17\\casos.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T10:10:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ej_17.cpp",
+              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\Ej_17.cpp",
+              "RelativeDocumentMoniker": "Ej_17\\Ej_17.cpp",
+              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_17\\Ej_17.cpp",
+              "RelativeToolTip": "Ej_17\\Ej_17.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwEEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-09T11:36:30.442Z",
-              "EditorCaption": " [Solo lectura]"
+              "WhenOpened": "2025-06-13T10:10:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "casos.txt",
+              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_16\\casos.txt",
+              "RelativeDocumentMoniker": "Ej_16\\casos.txt",
+              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_16\\casos.txt",
+              "RelativeToolTip": "Ej_16\\casos.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-13T10:05:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ej_16.cpp",
+              "DocumentMoniker": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_16\\Ej_16.cpp",
+              "RelativeDocumentMoniker": "Ej_16\\Ej_16.cpp",
+              "ToolTip": "C:\\Users\\julianix\\Documents\\programacion\\c\u002B\u002B\\MARP1\\Ej_16\\Ej_16.cpp",
+              "RelativeToolTip": "Ej_16\\Ej_16.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T09:45:15.735Z",
+              "EditorCaption": ""
             }
           ]
         }

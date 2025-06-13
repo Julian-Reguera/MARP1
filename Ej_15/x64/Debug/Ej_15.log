@@ -1,0 +1,4 @@
+﻿  Ej_15.cpp
+C:\Users\julianix\Documents\programacion\c++\MARP1\Ej_15\Ej_15.cpp(55,29): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\julianix\Documents\programacion\c++\MARP1\Ej_15\Ej_15.cpp(24,1): warning C4715: 'operacion': no todas las rutas de acceso de control devuelven un valor
+  Ej_15.vcxproj -> C:\Users\julianix\Documents\programacion\c++\MARP1\x64\Debug\Ej_15.exe

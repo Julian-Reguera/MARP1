@@ -1,0 +1,4 @@
+﻿  Ej_16.cpp
+C:\Users\julianix\Documents\programacion\c++\MARP1\Ej_16\Ej_16.cpp(44,64): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\julianix\Documents\programacion\c++\MARP1\Ej_16\Ej_16.cpp(44,48): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ej_16.vcxproj -> C:\Users\julianix\Documents\programacion\c++\MARP1\x64\Debug\Ej_16.exe
