@@ -1,0 +1,3 @@
+﻿  Ej_18.cpp
+C:\Users\julianix\Documents\programacion\c++\MARP1\Ej_18\Ej_18.cpp(60,29): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ej_18.vcxproj -> C:\Users\julianix\Documents\programacion\c++\MARP1\x64\Debug\Ej_18.exe
